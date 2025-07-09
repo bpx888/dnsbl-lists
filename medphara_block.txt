@@ -1,5 +1,0 @@
-ads.healthline.com
-ads.rxlist.com
-adserver.webmd.com
-ads.drugs.com
-ads.mayoclinic.org
